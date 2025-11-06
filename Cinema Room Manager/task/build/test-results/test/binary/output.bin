@@ -1,0 +1,12 @@
+[1;31m
+Start test 1[0m
+Enter the number of rows:
+> 7
+(Enter the number of seats in each row:
+> 8
+1. Show the seats
+2. Buy a ticket
+3. Statistics
+0. Exit
+
+> 0
